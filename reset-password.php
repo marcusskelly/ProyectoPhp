@@ -88,7 +88,8 @@ if(isset($_POST['submit'])){
                 <input required type="password" class="form-control" name="password">
             </div>
             <div class="form-group">
-                <button name="submit" type="submit"><a href="login.php">Cambiar contraseña</a></button>
+                <button name="submit" type="submit">Reserva</a></button>
+                <button name="submit" type="submit" class="calendario"><a href="calendario.php">Vuelve al calendario</a></button>
             </div>
         </form>
     </div>
